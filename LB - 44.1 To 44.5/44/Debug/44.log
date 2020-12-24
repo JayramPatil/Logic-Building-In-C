@@ -1,0 +1,8 @@
+﻿  44.1-44.5.c
+D:\Study Material\Visual Studio\LB Assignment\44\44\44.1-44.5.c(26,22): warning C4133: '=': incompatible types - from 'NODE *' to 'NODE *'
+D:\Study Material\Visual Studio\LB Assignment\44\44\44.1-44.5.c(46,22): warning C4133: '=': incompatible types - from 'NODE *' to 'PNODE'
+D:\Study Material\Visual Studio\LB Assignment\44\44\44.1-44.5.c(64,22): warning C4133: '=': incompatible types - from 'NODE *' to 'PNODE'
+D:\Study Material\Visual Studio\LB Assignment\44\44\44.1-44.5.c(78,22): warning C4133: '=': incompatible types - from 'NODE *' to 'PNODE'
+D:\Study Material\Visual Studio\LB Assignment\44\44\44.1-44.5.c(95,22): warning C4133: '=': incompatible types - from 'NODE *' to 'PNODE'
+D:\Study Material\Visual Studio\LB Assignment\44\44\44.1-44.5.c(112,22): warning C4133: '=': incompatible types - from 'NODE *' to 'PNODE'
+  44.vcxproj -> D:\Study Material\Visual Studio\LB Assignment\44\Debug\44.exe
