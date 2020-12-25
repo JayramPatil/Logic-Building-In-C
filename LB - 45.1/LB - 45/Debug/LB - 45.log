@@ -1,0 +1,3 @@
+﻿  45.2 Write application which accept file name from user and create that file.c
+Write application which accept file name from user and open that file in read mode.obj : error LNK2005: _main already defined in 45.2 Write application which accept file name from user and create that file.obj
+D:\Study Material\Visual Studio\LB Assignment\LB - 45\Debug\LB - 45.exe : fatal error LNK1169: one or more multiply defined symbols found
