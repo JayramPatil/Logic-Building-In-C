@@ -1,0 +1,4 @@
+﻿  46.5.c
+D:\Study Material\Visual Studio\LB Assignment\LB - 46.5\LB - 46.5\46.5.c(31,28): warning C4474: 'scanf_s' : too many arguments passed for format string
+D:\Study Material\Visual Studio\LB Assignment\LB - 46.5\LB - 46.5\46.5.c(31,28): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  LB - 46.5.vcxproj -> D:\Study Material\Visual Studio\LB Assignment\LB - 46.5\Debug\LB - 46.5.exe
